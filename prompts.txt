@@ -1,0 +1,48 @@
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 19 de junho de 2026
+- Prompt utilizado; O que é a Blockchain e redes distribuidas?
+- Trecho da resposta aproveitado; Resumo da conexão
+- Como a resposta foi verificada: Como era uma resposta mais teórica, não foi necessário verificação.
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 19 de junho de 2026
+- Prompt utilizado;  Como a Blockchain pode superar fronteiras e passar os seus dados de um servidor dos estados unidos pra a nigéria? Quais desses dados são considerados originais? como por exemplo, um arquivo PDF de uma pesquisa tem um certo metadado dizendo que esse é original ou não, Se esse arquivo estiver em um servidor dos estados unidos com ligação com a Nigéria, esse arquivo vai ser original na nigéria também? 
+- Trecho da resposta aproveitado; Explicação dos daods originais, explicação se seria original
+- Como a resposta foi verificada. Não foi, por ser teórica, Apesar disso, tentei comparar com o boom das NFT's.
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 19 de junho de 2026
+- Prompt utilizado;  resolva um problema em python de uma soma de 3 números. Você tem uma lista de cerca de 20 números dentro do programa, e verifica se uma ou qualquer soma de 3 números dá um resultado escolhido Se for mais de uma, mostrar quantas somas diferentes dão o número escolhido. 
+- Trecho da resposta aproveitado; Nenhum, achei grande demais pra a avaliação, portanto, inadequado.
+- Como a resposta foi verificada. Rodando o código. Apesar disso, funcionou. Mas senti que seria de mal gosto pra a necessidade da tarefa. Ele também foi inadequado porque ele trazia os próprios inputs em vez de deixar o usuário fazer os dele.
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 19 de junho de 2026
+- Prompt utilizado;  faça com que eu possa colocar os 20 números e o número alvo, dê duas dicas de testes 
+- Trecho da resposta aproveitado; Nenhum, achei de mal gosto um código mais complexo que o aceitavel.
+- Como a resposta foi verificada. Rodando o código, deu pra personalizar a resposta, mas estava grande e portanto, inadequada.
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 21 de junho de 2026
+- Prompt utilizado;
+- Trecho da resposta aproveitado;
+- Como a resposta foi verificada.
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 21 de junho de 2026
+- Prompt utilizado;  Está complexo demais, poderia colocar apenas uma formação de potências em python? 
+- Trecho da resposta aproveitado; Todo.
+- Como a resposta foi verificada. Verificação no VSCode, com testes de potencialização
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 21 de junho de 2026
+- Prompt utilizado;  Faça um código em python, que esteja bem explicado, com comentários, sobre a raiz quadrada de um número, Se esse número não tiver raiz quadrada entre os números reais, a resposta deverá ser "Prompt inválido", por exemplo, pra o 9, a resposta é 3, Pro 4, a resposta é 2, Pro 25, a resposta é 5, e assim em diante. Pro 7, é prompt inválido, Pro 1, é 1 
+- Trecho da resposta aproveitado; Todo, exceto a parte do printf, Não achei aceitavel ele não deixar a gente inicialmente colocar os números.
+- Como a resposta foi verificada. Verificação no VSCode, com rodar, já colocava a resposta direto, portanto, inaceitavel.
+
+- Ferramenta utilizada; Google Gemini 3.5 Flash
+- Data; 21 de junho de 2026
+- Prompt utilizado;  Você não está me permitindo colocar um input dentro dele. 
+- Trecho da resposta aproveitado; Todo, agora estava o código correto e colocado em raizquadrada.py
+- Como a resposta foi verificada. Com rodar o VSCode.
