@@ -11,7 +11,9 @@ relatório.
 Primeiro, segundo e terceiro exercícios, conversa:
 
 https://gemini.google.com/share/4717e6d8bd6a
+
 Quarto exercício, conversa:
+
 https://gemini.google.com/share/f4436c433f08
 
 ## Razão pra 20 number
